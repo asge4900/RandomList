@@ -1,0 +1,12 @@
+C:\Users\asge4900\Git\Source\Repos\RandomList\RandomListLibrary\bin\Debug\net5.0\RandomListLibrary.deps.json
+C:\Users\asge4900\Git\Source\Repos\RandomList\RandomListLibrary\bin\Debug\net5.0\RandomListLibrary.dll
+C:\Users\asge4900\Git\Source\Repos\RandomList\RandomListLibrary\bin\Debug\net5.0\ref\RandomListLibrary.dll
+C:\Users\asge4900\Git\Source\Repos\RandomList\RandomListLibrary\bin\Debug\net5.0\RandomListLibrary.pdb
+C:\Users\asge4900\Git\Source\Repos\RandomList\RandomListLibrary\obj\Debug\net5.0\RandomListLibrary.csprojAssemblyReference.cache
+C:\Users\asge4900\Git\Source\Repos\RandomList\RandomListLibrary\obj\Debug\net5.0\RandomListLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asge4900\Git\Source\Repos\RandomList\RandomListLibrary\obj\Debug\net5.0\RandomListLibrary.AssemblyInfoInputs.cache
+C:\Users\asge4900\Git\Source\Repos\RandomList\RandomListLibrary\obj\Debug\net5.0\RandomListLibrary.AssemblyInfo.cs
+C:\Users\asge4900\Git\Source\Repos\RandomList\RandomListLibrary\obj\Debug\net5.0\RandomListLibrary.csproj.CoreCompileInputs.cache
+C:\Users\asge4900\Git\Source\Repos\RandomList\RandomListLibrary\obj\Debug\net5.0\RandomListLibrary.dll
+C:\Users\asge4900\Git\Source\Repos\RandomList\RandomListLibrary\obj\Debug\net5.0\ref\RandomListLibrary.dll
+C:\Users\asge4900\Git\Source\Repos\RandomList\RandomListLibrary\obj\Debug\net5.0\RandomListLibrary.pdb
