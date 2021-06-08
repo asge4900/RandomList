@@ -14,33 +14,21 @@ namespace RandomListLibrary
         };
 
         public List<int> GetRandomList(double maxNumber)
-        {
-            if (maxNumber < 1010)
-            {
-                throw new Exception();
-            }
-            List<int> numberlist = new();
+        {            
+            List<int> numberlist = new() { 111, 122, 133, 144 };
             Random rng = new ();
-            int number = 0;
-            for (int i = 0; i < maxNumber - 500;)
-            {
-                var newItem = numbers.Where(x => !numberlist.Any(y => x == y));
-                if (i >= 1076 && newItem.Any())
-                {
-                    foreach (var item in newItem)
-                    {
-                        number = item;
-                        numberlist.Add(item);
-                    }
-                }
-                else
-                {
-                    number = numbers[rng.Next(numbers.Length)];
-                    numberlist.Add(number);
-                }
+            for (int i = 510; i < maxNumber - 500;)
+            {                
+                int number = numbers[rng.Next(numbers.Length)];
+                numberlist.Add(number);                
                 i += number;
             }
+
+            numberlist = numberlist.OrderBy(a => rng.Next()).ToList();
+
+            numberlist.Add(500);
+
             return numberlist;
-        }
+        }       
     }
 }
