@@ -16,8 +16,12 @@ namespace RandomListLibrary
         public List<int> GetRandomList(double maxNumber)
         {            
             List<int> numberlist = new() { 111, 122, 133, 144 };
+
+            int sum = numberlist.Sum();
+
             Random rng = new ();
-            for (int i = 510; i < maxNumber - 500;)
+
+            for (int i = sum; i < maxNumber - 500;)
             {                
                 int number = numbers[rng.Next(numbers.Length)];
                 numberlist.Add(number);                
