@@ -8,30 +8,25 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\asge4900\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
-    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\asger\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\asge4900\\Git\\Source\\Repos\\RandomList\\RandomListLibrary\\RandomListLibrary.csproj",
+      "projectUniqueName": "C:\\Users\\asger\\Source\\Repos\\RandomList\\RandomListLibrary\\RandomListLibrary.csproj",
       "projectName": "RandomListLibrary",
-      "projectPath": "C:\\Users\\asge4900\\Git\\Source\\Repos\\RandomList\\RandomListLibrary\\RandomListLibrary.csproj",
-      "packagesPath": "C:\\Users\\asge4900\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\asge4900\\Git\\Source\\Repos\\RandomList\\RandomListLibrary\\obj\\",
+      "projectPath": "C:\\Users\\asger\\Source\\Repos\\RandomList\\RandomListLibrary\\RandomListLibrary.csproj",
+      "packagesPath": "C:\\Users\\asger\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\asger\\Source\\Repos\\RandomList\\RandomListLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\asge4900\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\asger\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
@@ -70,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.200\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -10,12 +10,12 @@ namespace RandomListLibrary
     {
         private static readonly int[] numbers = new[]
        {
-            111, 122, 133, 144
+            100, 111, 122, 133, 144
         };
 
         public List<int> GetRandomList(double maxNumber)
         {            
-            List<int> numberlist = new() { 111, 122, 133, 144 };
+            List<int> numberlist = new() {100, 111, 122, 133, 144 };
 
             int sum = numberlist.Sum();
 
