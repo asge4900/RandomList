@@ -14,7 +14,6 @@ C:\Users\asger\Source\Repos\RandomList\RandomListLibrary\bin\Debug\net5.0\Random
 C:\Users\asger\Source\Repos\RandomList\RandomListLibrary\bin\Debug\net5.0\RandomListLibrary.dll
 C:\Users\asger\Source\Repos\RandomList\RandomListLibrary\bin\Debug\net5.0\ref\RandomListLibrary.dll
 C:\Users\asger\Source\Repos\RandomList\RandomListLibrary\bin\Debug\net5.0\RandomListLibrary.pdb
-C:\Users\asger\Source\Repos\RandomList\RandomListLibrary\obj\Debug\net5.0\RandomListLibrary.csprojAssemblyReference.cache
 C:\Users\asger\Source\Repos\RandomList\RandomListLibrary\obj\Debug\net5.0\RandomListLibrary.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\asger\Source\Repos\RandomList\RandomListLibrary\obj\Debug\net5.0\RandomListLibrary.AssemblyInfoInputs.cache
 C:\Users\asger\Source\Repos\RandomList\RandomListLibrary\obj\Debug\net5.0\RandomListLibrary.AssemblyInfo.cs
@@ -22,3 +21,4 @@ C:\Users\asger\Source\Repos\RandomList\RandomListLibrary\obj\Debug\net5.0\Random
 C:\Users\asger\Source\Repos\RandomList\RandomListLibrary\obj\Debug\net5.0\RandomListLibrary.dll
 C:\Users\asger\Source\Repos\RandomList\RandomListLibrary\obj\Debug\net5.0\ref\RandomListLibrary.dll
 C:\Users\asger\Source\Repos\RandomList\RandomListLibrary\obj\Debug\net5.0\RandomListLibrary.pdb
+C:\Users\asger\Source\Repos\RandomList\RandomListLibrary\obj\Debug\net5.0\RandomListLibrary.csproj.AssemblyReference.cache

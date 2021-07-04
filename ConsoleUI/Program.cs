@@ -8,7 +8,7 @@ var mylist = service.GetRandomList(2000);
 
 foreach (var item in mylist)
 {
-    Console.WriteLine(item);
+    Console.WriteLine($"/tip {item}");
 }
 
 Console.WriteLine();
